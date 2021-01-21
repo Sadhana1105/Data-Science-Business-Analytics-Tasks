@@ -1,5 +1,4 @@
-# Data-Science-Business-Analytics-Tasks
-Prediction using Supervised ML
+# Data-Science-Business-Analytics-Tasks - Task 1:Prediction using Supervised ML
 
 Prediction using Supervised ML
 (Level - Beginner)
